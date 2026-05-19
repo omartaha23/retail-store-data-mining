@@ -10,7 +10,7 @@ The project includes:
 - Data Preprocessing
 - Data Mining Algorithms
 - Data representation-Visualization
-- Data Documentation
+- Project Documentation
 
 ---
 
